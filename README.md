@@ -4,7 +4,8 @@ This project demonstrates how to create a nested table in HTML to display struct
 
 ## Output
 
-[p1output](table_in_html)
+<img width="450" height="232" alt="p1output" src="https://github.com/user-attachments/assets/55b2c6b0-3e54-4069-a599-7e70bfa42ba4" />
+
 
 
  Technologies Used:
